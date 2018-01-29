@@ -2,13 +2,10 @@ function add() {
 number = 10 + 5;
 }
 
-function subtract() {
-}
+//function subtract() {}
 
-function multiply() {
+//function multiply()
 
-}
+//function divide() {
 
-function divide() {
-
-}
+//}
