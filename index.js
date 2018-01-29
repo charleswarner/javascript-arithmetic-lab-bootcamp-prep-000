@@ -1,5 +1,5 @@
-function add() {
-number = 10 + 5;
+function add(1,b) {
+return a + b;
 }
 
 //function subtract() {}
