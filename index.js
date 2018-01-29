@@ -2,10 +2,17 @@ function add(1,b) {
 return a + b;
 }
 
-//function subtract() {}
+function subtract(a,b) {
 
-//function multiply()
+  return a-b;
+}
 
-//function divide() {
+function multiply(a,b) {
+  return a * b;
+
+}
+
+function divide(a,b) {
+  return a/b;
 
 //}
